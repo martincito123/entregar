@@ -8,6 +8,8 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
    
    2.1 aws cli , ansible , packer , terraform
 
+   2.2 configurar aws cli para que obtenga las variables de la cuenta a utilizar para realizar el despliegue : aws access key y secret key . 
+
 4. Al clonar el repositorio este tendra la siguiente estructura
    
    3.1 folder ansible : dependencias de ansible
