@@ -4,8 +4,10 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 # Laboratorio :
 1. Primero se tiene que clonar el repositorio en una maquina linux de preferencia .
 2. Asegurarse de contar con las dependencias necesarias para ejecutar lo necesario .
+   
    2.1 aws cli , ansible , packer , terraform
-3. Al clonar el repositorio este tendra la siguiente estructura
+
+4. Al clonar el repositorio este tendra la siguiente estructura
    3.1 folder ansible : dependencias de ansible
    3.2 folder assets : parametros necesarios para ejecutar la app clumsy bird
    3.3 folder playbooks: playbooks de ansible necesarios para poder construir la imagen AMI
