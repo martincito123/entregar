@@ -41,7 +41,18 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 6. ejecutar  <  packer build . >  en la ruta   <home/sebastian/Escritorio/LABS/ansible >
 
-7. Luego esperamos que packer y ansible hagan el trabajo de crear esta AMI , esto lo hara usando los playbooks que ya esta seteados en la carpeta playbooks y en el archivo de packer tambien estan referenciados , solo resta esperar a qu termine el comando packer build .
+7. Luego esperamos que packer y ansible hagan el trabajo de crear esta AMI , esto lo hara usando los playbooks que ya esta seteados en la carpeta playbooks y en el archivo de packer tambien estan referenciados , solo resta esperar a que termine el comando packer build .
+
+
+![image](https://github.com/user-attachments/assets/75bebb76-e0b7-4109-b97c-2748954bd5d2)
+
+
+
+
+![image](https://github.com/user-attachments/assets/abe13ed7-42f0-4ebe-a7d1-7478e2dcc618)
+
+
+
 
 8. Validamos en la nube la creacion de la imagen .
 
