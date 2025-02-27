@@ -39,6 +39,8 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
  
 
-6.  packer build .                    // esto construira la imagen y la enviara a la nube de aws . 
+6. ejecutar  <  packer build . >  en la ruta   <home/sebastian/Escritorio/LABS/ansible >
+
+   
    
 
