@@ -36,8 +36,9 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 
  debe de salir que la configuracion es valida . Es te paso es necesario ya que primero se contruira la AMI con los parametros necesarios para luego poder desplegarla 
+
  
 
- 6. packer build .                    // esto construira la imagen y la enviara a la nube de aws . 
+6.  packer build .                    // esto construira la imagen y la enviara a la nube de aws . 
    
 
