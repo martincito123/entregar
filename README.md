@@ -54,6 +54,13 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 
 
+
+![image](https://github.com/user-attachments/assets/a6dac6be-8d88-4b81-9581-c9bc82a41358)
+
+
+
+
+
 8. Validamos en la nube la creacion de la imagen .
 
    ![image](https://github.com/user-attachments/assets/70737748-7752-48b2-beaa-3fa21158e511)
