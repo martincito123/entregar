@@ -88,28 +88,13 @@ debe de salir que la configuracion es valida . Es te paso es necesario ya que pr
 
 
 
-
-
-
-    ![image](https://github.com/user-attachments/assets/078b5d79-cdf7-4e9b-864b-7561b3acccc7)
-
-
-
-
-
-
 13. Continuar con el flujo basico de terraform init plan apply .
 
 
 14. Revisar la consola cuando termine la ejecucion del terraform y verificar si la instancia desplego .
 
 
-![image](https://github.com/user-attachments/assets/add2c63d-b1c8-43e7-940a-893df2aed447)
-
-
-
-
-
+ ![image](https://github.com/user-attachments/assets/078b5d79-cdf7-4e9b-864b-7561b3acccc7)
 
 
 
