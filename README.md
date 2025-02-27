@@ -49,7 +49,7 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 9. con esta imagen ya instalada en la nube podemos proceder a la parte de Iaac usando terraform y packer .
 
-10. Nos situamos en esta carpeta para luego poder ejecutar los comandos basicos de terraform
+10. Nos situamos en esta carpeta para luego poder ejecutar los comandos basicos de terraform ( init , plan, apply , destroy )
 
 ![image](https://github.com/user-attachments/assets/5bae30f5-5922-4cf5-b187-6e6ad0729793)
 
