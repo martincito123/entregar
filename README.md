@@ -89,6 +89,26 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 ![image](https://github.com/user-attachments/assets/add2c63d-b1c8-43e7-940a-893df2aed447)
 
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7ac40c3d-d163-47e1-90f1-4e80b66df6df)
+
+
+
+
+
+
+
+
+
+
+
+
 15. Si queremos destruir la infra porfavor considerar lo siguiente al momento de darle terraform destroy
 
     
