@@ -23,3 +23,10 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 ![image](https://github.com/user-attachments/assets/2b512e89-52cf-478d-87ad-ef813a0877d7)
 
 
+5. Situarse en la carpeta /ansible y luego ejecutar los siguientes comandos de validacion previamente teniendo los binarios necesarios . de lo contrario no funcionara .
+
+   5.1 packer fmt . 
+   5.2 packer validate .
+
+ debe de salir que la configuracion es valida . Es te paso es necesario ya que primero se contruira la AMI con los parametros necesarios para luego poder desplegarla 
+
