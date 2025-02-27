@@ -58,8 +58,11 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 12. Considerar los siguientes datos a completar para poder desplegar la imagen AMI .
 
       Considerar sola y unicamente estos valores :
+
     
     12.1 APPLICATION IMAGE TO DEPLOY : EL ID DEL AMI GENERADO EN AWS
+
+
     12.2 NAME DE LA APP: ClumsyBird
 
 
