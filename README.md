@@ -113,15 +113,6 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 
 
-![image](https://github.com/user-attachments/assets/7ac40c3d-d163-47e1-90f1-4e80b66df6df)
-
-
-
-
-
-
-
-
 
 
 
