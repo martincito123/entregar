@@ -7,3 +7,6 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
    2.1 aws cli , ansible , packer , terraform
 
 
+![image](https://github.com/user-attachments/assets/2b512e89-52cf-478d-87ad-ef813a0877d7)
+
+
