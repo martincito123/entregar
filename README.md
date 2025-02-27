@@ -1,4 +1,5 @@
-#Contexto:
+# Contexto :
+
 El presente proyecto despliega una aplicacion basica que sirve para probar las funcionalidades del integrar packer ansible terraform y aws para desplegar infraestructura como codigo immutable . Se desplegara una aplicacion web (emula las funciones de un juego de celular llamado clumsy bird) 
 
 # Laboratorio :
