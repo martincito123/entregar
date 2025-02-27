@@ -91,7 +91,8 @@ debe de salir que la configuracion es valida . Es te paso es necesario ya que pr
 
 
 
-    ![image](https://github.com/user-attachments/assets/dbdf9629-f402-4e79-88c9-421f06ffe0d9)
+    ![image](https://github.com/user-attachments/assets/078b5d79-cdf7-4e9b-864b-7561b3acccc7)
+
 
 
 
