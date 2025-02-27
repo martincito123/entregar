@@ -88,6 +88,16 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 
 
+
+
+
+
+    ![image](https://github.com/user-attachments/assets/dbdf9629-f402-4e79-88c9-421f06ffe0d9)
+
+
+
+
+
 13. Continuar con el flujo basico de terraform init plan apply .
 
 
