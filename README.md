@@ -1,6 +1,5 @@
 # Contexto :
-
-El presente proyecto despliega una aplicacion basica que sirve para probar las funcionalidades del integrar packer ansible terraform y aws para desplegar infraestructura como codigo immutable . Se desplegara una aplicacion web (emula las funciones de un juego de celular llamado clumsy bird) 
+El presente proyecto despliega una aplicacion basica que sirve para probar las funcionalidades del integrar packer, ansible , terraform y aws para desplegar infraestructura como codigo immutable . Se desplegara una aplicacion web que emula las funciones de un juego de celular llamado clumsy bird . 
 
 # Laboratorio :
 1. Primero se tiene que clonar el repositorio en una maquina linux de preferencia .
@@ -20,7 +19,7 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
    
    3.4 folder packer_terraform: carpeta que cuenta con la integracion de terraform y packer , servira poder desplegar la instancia con la aplicacion una vez se cuente con la AMI ya construida .
 
-   3.5 main.tf: IAAC infra como codigo necesaria para poder desplegar la instancia . 
+   3.5 main.tf: IaaC infra como codigo necesaria para poder desplegar la instancia . 
    
 ![image](https://github.com/user-attachments/assets/2b512e89-52cf-478d-87ad-ef813a0877d7)
 
@@ -35,7 +34,7 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
    ![image](https://github.com/user-attachments/assets/6502293c-2e19-4821-9bff-44346302be93)
 
 
- debe de salir que la configuracion es valida . Es te paso es necesario ya que primero se contruira la AMI con los parametros necesarios para luego poder desplegarla 
+debe de salir que la configuracion es valida . Es te paso es necesario ya que primero se contruira la AMI con los parametros necesarios para luego poder desplegarla 
 
  
 
