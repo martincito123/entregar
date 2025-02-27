@@ -29,5 +29,9 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
    
    5.2 packer validate .
 
+
+   ![image](https://github.com/user-attachments/assets/6502293c-2e19-4821-9bff-44346302be93)
+
+
  debe de salir que la configuracion es valida . Es te paso es necesario ya que primero se contruira la AMI con los parametros necesarios para luego poder desplegarla 
 
