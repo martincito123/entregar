@@ -8,10 +8,15 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
    2.1 aws cli , ansible , packer , terraform
 
 4. Al clonar el repositorio este tendra la siguiente estructura
+   
    3.1 folder ansible : dependencias de ansible
+   
    3.2 folder assets : parametros necesarios para ejecutar la app clumsy bird
+
    3.3 folder playbooks: playbooks de ansible necesarios para poder construir la imagen AMI
+   
    3.4 folder packer_terraform: carpeta que cuenta con la integracion de terraform y packer , servira poder desplegar la instancia con la aplicacion una vez se cuente con la AMI ya construida .
+
    3.5 main.tf: IAAC infra como codigo necesaria para poder desplegar la instancia . 
    
 ![image](https://github.com/user-attachments/assets/2b512e89-52cf-478d-87ad-ef813a0877d7)
