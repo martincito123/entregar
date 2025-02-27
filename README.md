@@ -47,11 +47,24 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
    ![image](https://github.com/user-attachments/assets/70737748-7752-48b2-beaa-3fa21158e511)
 
-9. con esta imagen ya instalada en la nube podemos proceder a la parte de Iaac usando terraform y packer .
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-10. Nos situamos en esta carpeta para luego poder ejecutar los comandos basicos de terraform ( init , plan, apply , destroy )
+10. con esta imagen ya instalada en la nube podemos proceder a la parte de Iaac usando terraform y packer .
+
+11. Nos situamos en esta carpeta para luego poder ejecutar los comandos basicos de terraform ( init , plan, apply , destroy )
 
 ![image](https://github.com/user-attachments/assets/5bae30f5-5922-4cf5-b187-6e6ad0729793)
+
+12. Considerar los siguientes datos a completar para poder desplegar la imagen AMI .
+
+      Considerar sola y unicamente estos valores :
+    
+    12.1 APPLICATION IMAGE TO DEPLOY : EL ID DEL AMI GENERADO EN AWS
+    12.2 NAME DE LA APP: ClumsyBird
+
+
+    ![image](https://github.com/user-attachments/assets/f53a81bf-8336-44d9-8156-fec09588fbf2)
+
 
 
 
