@@ -89,6 +89,14 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
    15.2 NAME DE LA APP: ClumsyBird
 
 
+
+   EJEMPLO : 
+
+
+   ![image](https://github.com/user-attachments/assets/be112ca9-ab50-42ed-a6df-b66a0bd93092)
+
+
+
    
    
 
