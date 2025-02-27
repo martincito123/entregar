@@ -78,8 +78,14 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 ![image](https://github.com/user-attachments/assets/add2c63d-b1c8-43e7-940a-893df2aed447)
 
+15. Si queremos destruir la infra porfavor considerar lo siguiente al momento de darle terraform destroy 
 
 
+
+   12.1 APPLICATION IMAGE TO DEPLOY : EL ID DEL AMI GENERADO EN AWS
+
+
+   12.2 NAME DE LA APP: ClumsyBird
 
 
    
