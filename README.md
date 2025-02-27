@@ -70,6 +70,17 @@ El presente proyecto despliega una aplicacion basica que sirve para probar las f
 
 
 
+13. Continuar con el flujo basico de terraform init plan apply .
+
+
+14. Revisar la consola cuando termine la ejecucion del terraform y verificar si la instancia desplego .
+
+
+![image](https://github.com/user-attachments/assets/add2c63d-b1c8-43e7-940a-893df2aed447)
+
+
+
+
 
    
    
